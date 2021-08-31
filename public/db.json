@@ -1,0 +1,184 @@
+{
+    "greetings": [
+      {
+        
+        "one": ["Hello", "Nǐ hǎo","你好"]
+      },
+      {
+        "one": ["Good Morning", "ZǎoÀn", "早安"]
+      },
+      {
+        "one": ["Good Evening","WǎnÀn", "晚安"]
+      }
+      ],
+      "introductions":[
+        {
+          
+          "one": ["My Name is..", "Wǒ de míngzì shì", "我的名字是"]
+        },
+          {"one": ["What is your name?","Nǐ jiào shénme míngzì", "你叫什么名字"]
+          },
+          {"one": ["What is your last name?","Nǐ guìxìng", "你贵姓"]
+          
+        }],
+        "salutations":[{
+             
+               "one": ["See you next time","Xià cì jiàn", "下次见"]
+              },
+               {"one": ["See you tomorrow","Míngtiān jiàn", "明天见"]
+               },
+               {"one": ["Goodbye","Zàijiàn", "再见"]
+              }
+               
+           ],
+           "wordsOne":[{
+             
+            "one": ["How's everything?","Nǐ Zěnmeyàng", "你怎么样"]
+           },
+            {"one": ["Fine, thank you, and you?","Hái Hǎo,Xièxiè. Nǐ Ne ", "还好谢谢你呢"]
+            },
+            {"one": ["Very well, and you?","Hěn hǎo, nǐ ne? ", "很好，你呢？"]
+           }
+            
+        ],
+        "wordsTwo":[{
+             
+          "one": ["Not very well","Bù zěnme hǎo", "不怎么好"]
+         },
+          {"one": ["Not Bad","Bùcuò", "不错"]
+          },
+          {"one": ["I'm going to leave","Wǒ yào zǒule", "我要走了"]
+         }
+          
+      ],
+      "wordsThree":[{
+             
+        "one": ["Health is good","Shēntǐ hǎo", "身体好"]
+       },
+        {"one": ["In excellent health","Jīngshén hǎo", "精神好"]
+        },
+        {"one": ["I'm going to leave","Wǒ yào zǒule", "我要走了"]
+        }
+        
+    ],
+    "familyOne":[{
+             
+      "one": ["family","Jiātíng", "家庭"]
+     },
+      {"one": ["Mom","Māmā", "妈妈"]
+      },
+      {"one": ["Dad","Bàba", "爸爸"]
+     }
+      
+  ],
+  "familyTwo":[{
+       
+    "one": ["Daughter","Nǚ'ér", "女儿"]
+   },
+    {"one": ["Érzi", "儿子"]
+    },
+    {"one": ["Children","Háizimen", "孩子们"]
+   }
+    
+],
+"familyThree":[{
+       
+  "one": ["This is my family","Zhè shì jiārén", "这是我家人"]
+ },
+  {"one": ["How many people are in your family?","Nǐ jiā yǒu jǐ kǒu rén", "你家有几口人"]
+  },
+  {"one": ["This is my son", "Zhè shì wǒ érzi", "这是我儿子" ]
+  }
+  
+],
+"dailyPhraseOne":[{
+             
+  "one": ["Which do you prefer?","Nǐ zuì xǐhuān na ge", "你最喜欢哪个"]
+ },
+  {"one": ["What do you thing?","Māmā", "你觉得怎么样"]
+  },
+  {"one": ["I don't mind","Nǐ juédé zěnmeyàng", "爸爸"]
+ }
+  
+],
+"dailyPhraseTwo":[{
+   
+"one": ["Well done!","Tài bàngle", "太棒了"]
+},
+{"one": ["Not bad!","Bùcuò", "不错"]
+},
+{"one": ["Wonderful!","Tài hǎole", "太好了"]
+}
+
+],
+"dailyPhraseThree":[{
+   
+"one": ["I am pleased with you","Wǒ wèi nǐ gāoxìng", "我为你高兴"]
+},
+{"one": ["I'm very happy to...","Wǒ hěn gāoxìng", "我很高兴"]
+},
+{"one": ["I don't like it", "Wǒ bù xǐhuān", "我不喜欢" ]
+}
+
+],
+"foodListOne":[{
+             
+  "one": ["Food","Shíwù", "食物"]
+ },
+  {"one": ["Hamburger","Hànbǎobāo", "汉堡包"]
+  },
+  {"one": ["Pizza","Bǐsàbǐng", "比萨饼"]
+ }
+  
+],
+"foodListTwo":[{
+   
+"one": ["Cake","Dàngāo", "蛋糕"]
+},
+{"one": ["Bread","Miànbāo", "面包"]
+},
+{"one": ["Ice Cream","Bīngqílín", "冰淇淋"]
+}
+
+],
+"foodListThree":[{
+   
+"one": ["Juice","Guǒzhī", "果汁"]
+},
+{"one": ["Milk","Niúnǎi", "牛奶"]
+},
+{"one": ["Tea", "Chá", "茶" ]
+}
+
+],
+"colors":[{
+             
+  "one": ["Color","Yánsè", "颜色"]
+ },
+  {"one": ["Red","Hóngsè", "红色"]
+  },
+  {"one": ["Yellow","Huángsè", "黄色"]
+ }
+  
+],
+"numbers":[{
+   
+"one": ["One","Yī", "一"]
+},
+{"one": ["Two","Èr", "二"]
+},
+{"one": ["Three","Sān", "三"]
+}
+
+],
+"colorsAndNumbers":[{
+   
+"one": ["Ten","Shí", "十"]
+},
+{"one": ["Green","Lǜsè", "绿色"]
+},
+{"one": ["Blue", "Lán sè", "蓝色" ]
+}
+
+]
+  }

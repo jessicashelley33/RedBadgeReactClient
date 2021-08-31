@@ -1,0 +1,40 @@
+
+
+.bg-light{
+    /* 
+    <a href="https://www.vecteezy.com/free-vector/bamboo-background">Bamboo Background Vectors by Vecteezy</a>
+    */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center center;
+    position: relative;
+    min-width: 10vw; 
+    min-height: 100vh;
+     background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), var(--bg-light);
+     overflow: hidden;
+     
+}
+
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+.btnSubmit{
+    padding-right:250px;
+     padding-left:250px;
+     color: #fff;
+     
+}
+
+.smallText{
+    display:flex;
+    justify-content: center;
+    font-size:16px;
+    list-style: none;
+}

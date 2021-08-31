@@ -1,0 +1,25 @@
+.HeroPage{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center center;
+    position: relative;
+    min-width: 10vw; 
+    min-height:10vh;
+     background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), var(--bg-pages);
+     padding: 15rem;
+     overflow: hidden;
+}
+
+.GreetingPage{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center center;
+    position: relative;
+    min-width: 10vw; 
+    min-height:10vh;
+     background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), var(--bg-greeting);
+     padding: 15rem;
+     overflow: hidden;
+}
+
+

@@ -1,0 +1,28 @@
+.HeroBg{
+    /* 
+    <a href="https://www.vecteezy.com/free-vector/japan">Japan Vectors by Vecteezy</a>
+    */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center center;
+    position: relative;
+    background-image: var(--bg-Home);
+    overflow: hidden;
+    
+    
+}
+
+/*.boxFlex{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.FlexBoxOne{
+    margin:4rem;
+}*/
+
+
+
